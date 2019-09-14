@@ -1,0 +1,12 @@
+C:\Users\Public\gmail_test\gmail_test\bin\Debug\netcoreapp2.1\gmail_test.deps.json
+C:\Users\Public\gmail_test\gmail_test\bin\Debug\netcoreapp2.1\gmail_test.runtimeconfig.json
+C:\Users\Public\gmail_test\gmail_test\bin\Debug\netcoreapp2.1\gmail_test.runtimeconfig.dev.json
+C:\Users\Public\gmail_test\gmail_test\bin\Debug\netcoreapp2.1\gmail_test.dll
+C:\Users\Public\gmail_test\gmail_test\obj\Debug\netcoreapp2.1\gmail_test.csproj.CoreCompileInputs.cache
+C:\Users\Public\gmail_test\gmail_test\obj\Debug\netcoreapp2.1\gmail_test.AssemblyInfoInputs.cache
+C:\Users\Public\gmail_test\gmail_test\obj\Debug\netcoreapp2.1\gmail_test.AssemblyInfo.cs
+C:\Users\Public\gmail_test\gmail_test\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\Public\gmail_test\gmail_test\bin\Debug\netcoreapp2.1\gmail_test.pdb
+C:\Users\Public\gmail_test\gmail_test\obj\Debug\netcoreapp2.1\gmail_test.csprojAssemblyReference.cache
+C:\Users\Public\gmail_test\gmail_test\obj\Debug\netcoreapp2.1\gmail_test.dll
+C:\Users\Public\gmail_test\gmail_test\obj\Debug\netcoreapp2.1\gmail_test.pdb
